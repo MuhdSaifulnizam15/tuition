@@ -1,0 +1,20 @@
+{
+  "name": "tuition",
+  "version": "1.0.0",
+  "description": "Tuition management system REST API using Node.js, Express.js and MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MuhdSaifulnizam15/tuition.git"
+  },
+  "keywords": ["Node.js", "Express.js", "MongoDB"],
+  "author": "Muhd Saiful",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MuhdSaifulnizam15/tuition/issues"
+  },
+  "homepage": "https://github.com/MuhdSaifulnizam15/tuition#readme"
+}
